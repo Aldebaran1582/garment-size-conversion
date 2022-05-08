@@ -31,7 +31,7 @@ List = {
 }
 
 
-# Function to validate size and  get its index from list.
+# Function to validate size value and get its index from list.
 def search(list, v):
 
     i = 0
