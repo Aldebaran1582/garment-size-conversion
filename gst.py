@@ -3,6 +3,7 @@ from operator import index
 from pickle import FALSE, TRUE
 from re import S
 import os
+import sys
 
 
 List = {
@@ -62,6 +63,9 @@ while my_option != "quit":
                     print("Your converted size is: ", List[c][x])
                     my_option = input("Enter 'quit' to exit or any key to continue: ")
                     if my_option == "quit":
+                        sys.exit()
+                    else:
+                        os.system("cls" if os.name == "nt" else "clear")
                         break
                 else:
                     print("Invalid target locale, try again! ")
@@ -86,7 +90,11 @@ while my_option != "quit":
                     print("Your converted size is: ", List[c][x])
                     my_option = input("Enter 'quit' to exit or any key to continue: ")
                     if my_option == "quit":
+                        sys.exit()
+                    else:
+                        os.system("cls" if os.name == "nt" else "clear")
                         break
+                        
                 else:
                     print("Invalid target locale, try again! ")
 
