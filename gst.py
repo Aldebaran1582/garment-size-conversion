@@ -52,13 +52,13 @@ while my_option != "quit":
                 if w in List[a]:
                     break
                 else:
-                    print("Invalid size try again! ")
+                    print("Invalid size, try again! ")
 
             while True:
                 c = input("Enter your target locale: ")
                 if c in List.keys():
                     x = search(List[a],w)
-                    print("Your converted size is: " ,List[c][x])
+                    print("Converted size is: " ,List[c][x])
                     my_option = input("Enter 'quit' to exit or any key to continue: ")
                     if my_option == "quit":
                         sys.exit()
@@ -66,7 +66,7 @@ while my_option != "quit":
                         os.system("cls" if os.name == "nt" else "clear")
                         break
                 else:
-                    print("Invalid target locale try again! ")     
+                    print("Invalid target locale, try again! ")     
     else:
-        print("Invalid start locale try again! ")
+        print("Invalid start locale, try again! ")
 
