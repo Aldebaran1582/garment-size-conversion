@@ -1,6 +1,6 @@
 # Garment Size Conversion
 
-Just run pythn3 gst.py and input the start locale, size and target locale.
+Just run python3 gst.py and input the start locale, size and target locale.
 
 Note:
 
