@@ -19,7 +19,7 @@
  ~/cd garment-size-conversion
  ```
 
-## 1.- Simple command line garment conversion
+## 1.1- Simple command line garment conversion
 
 
 ```python
@@ -35,7 +35,7 @@
 
 ```
              
-## 2.- CSV File conversion.
+## 1.2.- CSV File conversion.
 
 
 ```python
