@@ -53,3 +53,4 @@ My approach was based on trying to find out the starting locale index in order t
  ####  Also, when the target size is ALPHA, those records without equivalent size will show "No equivalent size available".
  #### I assumed the csv source file will be already formatted ( I did't add any additional csv format validation).
 
+
