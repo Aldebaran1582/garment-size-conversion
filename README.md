@@ -1,9 +1,9 @@
 # Garment size conversion tool
 
 
-[![N|Python](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 
 My approach was based on trying to find out the starting locale index in order to retrieve the equivalente target size
