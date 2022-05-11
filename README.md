@@ -10,10 +10,17 @@
 ## Methodology: 
 ### My approach was based on trying to find out the starting locale size index to retrieve the equivalente target size value.
 
+## Usage: 
 
-# 1.- Simple command line garment conversion
+## 1.- Clone this repo
+```python
 
-#### Usage: After cloning the repo
+ ~/git clone https://github.com/Aldebaran1582/garment-size-conversion.git
+ ~/cd garment-size-conversion
+ ```
+
+## 1.1- Simple command line garment conversion
+
 
 ```python
 
@@ -28,8 +35,8 @@
 
 ```
              
-# 2.- CSV File conversion.
-### Usage:
+## 1.2.- CSV File conversion.
+
 
 ```python
 
