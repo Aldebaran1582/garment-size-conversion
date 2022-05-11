@@ -7,7 +7,7 @@
 
 
 ### Methodology: 
-#### My approach was based on trying to find out the starting locale size index after importing the siszing.csv to retrieve the equivalente target size value.
+#### My approach was based on trying to find out the starting locale size index to retrieve the equivalente target size value.
 
 
 
