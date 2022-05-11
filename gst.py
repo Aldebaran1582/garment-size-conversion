@@ -69,4 +69,3 @@ while my_option != "quit":
                     print("Invalid target locale, try again! ")     
     else:
         print("Invalid start locale, try again! ")
-
