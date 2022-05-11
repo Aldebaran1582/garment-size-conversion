@@ -48,6 +48,7 @@
  ~/garment-size-conversion/ python3 test.py -f garments.csv -t ALPHA 
  
  100%████████████████████████████████████████████████████████| 100000/100000 [00:03<00:00, 32226.15it/s]
+ 
  Conversion completed! 
 ```
 
