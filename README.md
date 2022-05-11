@@ -36,7 +36,7 @@
 ```
              
 ## 1.2.- CSV File conversion.
-
+#### A new file called garment_converted.csv will be created containing the conversion values.
 
 ```python
 
