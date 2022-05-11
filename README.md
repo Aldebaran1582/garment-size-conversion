@@ -17,6 +17,8 @@
 
 ```python
 
+ ~/git clone https://github.com/Aldebaran1582/garment-size-conversion.git
+ ~/cd garment-size-conversion
  ~/garment-size-conversion/ python3 gst.py 
   Enter your start locale: US
   Enter you cloth size: 18
