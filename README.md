@@ -8,7 +8,7 @@
 
 ### Methodology: 
 #### My approach was based on trying to find out the starting locale size index after importing the siszing.csv to retrieve the equivalente target size value.
-My approach was based on trying to find out the starting locale index in order to retrieve the equivalente target size
+
 
 
 # 1.- Simple command line garment conversion
