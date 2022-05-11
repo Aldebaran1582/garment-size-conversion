@@ -15,16 +15,25 @@ My approach was based on trying to find out the starting locale index in order t
 # 1.- Simple command line garment conversion
 
 #### Usage: input the start locale, size and target locale.
+
 .. code:: python
-~/garment-size-conversion/ python3 gst.py 
+        ~/garment-size-conversion/ python3 gst.py 
 
 Enter your start locale: US
 Enter you cloth size: 18
 Enter your target locale: FR
 Converted size is:  50
 Enter 'quit' to exit or any key to continue: 
- ...
+   ...
+.. code:: python
 
+    ~/garment-size-conversion/ python3 gst.py 
+     Enter your start locale: US
+     Enter you cloth size: 18
+     Enter your target locale: FR
+     Converted size is:  50
+     Enter 'quit' to exit or any key to continue:
+             ...
 # 2.- CSV File conversion.
 ### Usage:
 
