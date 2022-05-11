@@ -10,10 +10,10 @@
 ## Methodology: 
 ### My approach was based on trying to find out the starting locale size index to retrieve the equivalente target size value.
 
+## Usage: After cloning the repo
 
-# 1.- Simple command line garment conversion
+## 1.- Simple command line garment conversion
 
-#### Usage: After cloning the repo
 
 ```python
 
@@ -28,8 +28,8 @@
 
 ```
              
-# 2.- CSV File conversion.
-### Usage:
+## 2.- CSV File conversion.
+
 
 ```python
 
