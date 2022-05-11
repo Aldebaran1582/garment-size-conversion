@@ -40,23 +40,26 @@
 
 ```python
 
- ~/garment-size-conversion/ python3 gspy.py -h
+~/garment-size-conversion/ python3 gspy.py -h
  
- usage: test.py [-h] [-f FILE] [-t TARGET]
+usage: test.py [-h] [-f FILE] [-t TARGET]
 
- Additional commands to process CSV files.
+Additional commands to process CSV files.
 
- optional arguments:
- -h, --help            show this help message and exit
- -f FILE, --file FILE  Type the csv file name to convert.
- -t TARGET, --target TARGET Type your target locale.
+optional arguments:
+-h, --help            show this help message and exit
+-f FILE, --file FILE  Type the csv file name to convert.
+-t TARGET, --target TARGET Type your target locale.
 
  
- ~/garment-size-conversion/ python3 test.py -f garments.csv -t ALPHA 
+~/garment-size-conversion/ python3 test.py -f garments.csv -t ALPHA 
  
- 100%████████████████████████████████████████████████████████| 100000/100000 [00:03<00:00, 32226.15it/s]
+100%████████████████████████████████████████████████████████| 100000/100000 [00:03<00:00, 32226.15it/s]
  
- Conversion completed! 
+Conversion completed! 
+ 
+~/garment-size-conversion/ls                                                                                                                                                                                                                                                                                                                                               
+README.md             garment_converted.csv garments.csv          gst.py
 ```
 
 ## Notes:
