@@ -48,8 +48,8 @@ My approach was based on trying to find out the starting locale index in order t
 
 ## Notes:
 
- ###  For the file conversion, in case the target size matches the csv record's target source, it will show " "SAME SIZE".
- ###  Also, when the target size is ALPHA, those records without equivalent size will show "No equivalent size available".
- ### I assumed the csv source file will be already formatted ( I did't add any additional csv format validation).
+ ####  For the file conversion, in case the target size matches the csv file record size, it will show " "SAME SIZE".
+ ####  Also, when the target size is ALPHA, those records without equivalent size will show "No equivalent size available".
+ #### I assumed the csv source file will be already formatted ( I did't add any additional csv format validation).
 
 
