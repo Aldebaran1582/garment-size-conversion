@@ -13,7 +13,7 @@
 
 # 1.- Simple command line garment conversion
 
-#### Usage: input the start locale, size and target locale.
+#### Usage: After cloning the repo
 
 ```python
 
