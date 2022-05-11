@@ -6,17 +6,19 @@
 
 
 
-### Methodology: 
-#### My approach was based on trying to find out the starting locale size index to retrieve the equivalente target size value.
 
+## Methodology: 
+### My approach was based on trying to find out the starting locale size index to retrieve the equivalente target size value.
 
 
 # 1.- Simple command line garment conversion
 
-#### Usage: input the start locale, size and target locale.
+#### Usage: After cloning the repo
 
 ```python
 
+ ~/git clone https://github.com/Aldebaran1582/garment-size-conversion.git
+ ~/cd garment-size-conversion
  ~/garment-size-conversion/ python3 gst.py 
   Enter your start locale: US
   Enter you cloth size: 18
@@ -44,7 +46,9 @@
 
  
  ~/garment-size-conversion/ python3 test.py -f garments.csv -t ALPHA 
+ 
  100%████████████████████████████████████████████████████████| 100000/100000 [00:03<00:00, 32226.15it/s]
+ 
  Conversion completed! 
 ```
 
