@@ -10,7 +10,7 @@
 ## Methodology: 
 ### My approach was based on trying to find out the starting locale size index to retrieve the equivalente target size value.
 
-## Usage: After cloning the repo
+## Usage: After cloning this repo
 
 ## 1.- Simple command line garment conversion
 
