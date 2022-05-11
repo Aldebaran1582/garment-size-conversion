@@ -15,6 +15,12 @@ My approach was based on trying to find out the starting locale index in order t
 
 .. code:: python
 
+    from tqdm import tqdm
+    for i in tqdm(range(10000)):
+        ...
+
+.. code:: python
+
     ~/garment-size-conversion/ python3 gst.py 
      Enter your start locale: US
      Enter you cloth size: 18
